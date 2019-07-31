@@ -64,6 +64,7 @@ public class PetclinicInitializer extends AbstractDispatcherServletInitializer {
 		webAppContext.setConfigLocation("classpath:spring/mvc-core-config.xml");
 		System.out.println("jkbjlbln");
 		System.out.println("jkbjlbln");
+		System.out.println("jkbjlbln");
 		return webAppContext;
 	}
 
